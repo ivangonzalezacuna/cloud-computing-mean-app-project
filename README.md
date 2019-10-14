@@ -39,6 +39,7 @@
         - `git add .`
         - `git commit -m 'message'`
         - `git push heroku master`
+        
     3. Open the Heroku App using the following command: `heroku open`.
     
 - Enjoy the app!
