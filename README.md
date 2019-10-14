@@ -33,7 +33,12 @@
   - **Terminal 2**
   
     1. On the root folder, run `npm install` to install all the dependencies.
-    2. If you want to create your own Heroku app. Create a new Git repository and follow the Heroku instructions.
+    2. If you want to use your own Heroku app. Follow again these instructions:
+        - `git init`
+        - `heroku create`
+        - `git add .`
+        - `git commit -m 'message'`
+        - `git push heroku master`
     3. Open the Heroku App using the following command: `heroku open`.
     
 - Enjoy the app!
