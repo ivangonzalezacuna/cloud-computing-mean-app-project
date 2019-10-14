@@ -8,7 +8,7 @@
 
 
 
-##### **How to run our application:**
+#### **How to run our application:**
 
 - Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project`.
 
