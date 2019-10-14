@@ -1,4 +1,4 @@
-# clud-computing-ivan-basil
+# cloud-computing-ivan-basil
 
 ### User Registration and Login Project using a MEAN Application.
 
@@ -10,7 +10,7 @@
 
 **How to run our application:**
 
-- Download the repository using 'git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project'
+- Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project`.
 
 - Open 2 terminals:
 
