@@ -8,7 +8,9 @@
 
 
 
-#### **How to run our application:**
+#### **How to run the application:**
+
+- You can use this application by opening the following link: https://login-project-frontend.herokuapp.com
 
 - Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project` and go into the project using `cd cloud-computing-mean-app-project`.
 
