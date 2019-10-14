@@ -10,7 +10,7 @@
 
 #### **How to run our application:**
 
-- Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project` and go into the project by `cd cloud-computing-mean-app-project`.
+- Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project` and go into the project using `cd cloud-computing-mean-app-project`.
 
 - Now you will need 2 terminals. In one you will deploy the Back-End and in the other one the Front-End of our application:
 
