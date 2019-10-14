@@ -27,7 +27,7 @@
         - `git push heroku master`
       
     5. Deploy the Heroku app with `heroku open`. You should see a message like this: **`{"message":"Invalid Token"}`**
-    6. Finally, go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app. This will provide a connection between our Front-End and our API, in the Back-End.
+    6. Finally, go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app link. This will provide a connection between our Front-End and our API, in the Back-End.
 
 
   - **Terminal 2**
