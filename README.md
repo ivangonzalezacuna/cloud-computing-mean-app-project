@@ -10,9 +10,9 @@ User Registration and Login Project using a MEAN Application.
 
 **How to run our application:**
 
-- Download the repository using 'git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY'
+- Download the repository using 'git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project'
 
-- Then, open 2 terminals:
+- Open 2 terminals:
 
   - **Terminal 1**
   
