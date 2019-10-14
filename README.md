@@ -19,12 +19,13 @@
     1. The App is already running, but if you want to start your own App, follow the next instructions.
     2. In the first one go to the *_/api_* folder writing `cd api`. 
     3. Run `npm install` to install all the dependencies.
-    4. Create a new Git repository and follow the Heroku instructions: 
-      - `git init`
-      - `heroku create`
-      - `git add .`
-      - `git commit -m 'message'`
-      - `git push heroku master`
+    4. Create a new Git repository and follow this commands: 
+        - `git init`
+        - `heroku create`
+        - `git add .`
+        - `git commit -m 'message'`
+        - `git push heroku master`
+      
     5. Go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app.
 
 
