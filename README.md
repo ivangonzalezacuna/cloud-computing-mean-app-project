@@ -2,13 +2,13 @@
 
 ### User Registration and Login Project using a MEAN Application.
 
-1. `Root` folder has the data for the Client or Front-End of our application.
+1. `Root` folder has the data for the Client or Front-End of our application. And also the connection to the Back-End database.
 
-2. Folder `/api` has the data for the Server or Back-End. Where the API of our application is defined.
+2. Folder `/api` has the data for the Server or Back-End. Where the API of our application and the MongoDB database connection are defined.
 
 
 
-**How to run our application:**
+##### **How to run our application:**
 
 - Download the repository using `git clone https://github.com/ivangonzalezacuna/cloud-computing-mean-app-project`.
 
