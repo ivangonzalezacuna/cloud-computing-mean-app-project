@@ -19,14 +19,15 @@
     1. The App is already running. If you want to start your own App, follow the next instructions. In other case, go to the **Terminal 2** instructions.
     2. In the first one go to the `/api` folder writing `cd api`. 
     3. Run `npm install` to install all the dependencies.
-    4. Create a new Git repository and follow this commands: 
+    4. Now you need to start a Git repository and the Heroku app where you are going to deploy the Back-End: 
         - `git init`
         - `heroku create`
         - `git add .`
         - `git commit -m 'message'`
         - `git push heroku master`
       
-    5. Go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app.
+    5. Deploy the Herku app using `heroku open`. You should see a message like this: `**{"message":"Invalid Token"}**`
+    6. Go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app.
 
 
   - **Terminal 2**
