@@ -14,7 +14,7 @@
 
 - Now you will need 2 terminals. In one you will deploy the Back-End and in the other one the Front-End of our application:
 
-  - #### **Terminal 1 - Back-End**
+  #### **Terminal 1 - Back-End**
   
     1. The App is already running. If you want to start your own App, follow the next instructions. In other case, go to the **Terminal 2** instructions.
     2. Go to the `/api` folder writing `cd api`. 
