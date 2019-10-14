@@ -1,6 +1,6 @@
 # clud-computing-ivan-basil
 
-User Registration and Login Project using a MEAN Application.
+### User Registration and Login Project using a MEAN Application.
 
 1. *_Root_* folder has the data for the Client or Front-End of our application.
 
