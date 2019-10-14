@@ -17,7 +17,7 @@
   - **Terminal 1**
   
     1. The App is already running. If you want to start your own App, follow the next instructions. In other case, go to the **Terminal 2** instructions.
-    2. In the first one go to the `/api` folder writing `cd api`. 
+    2. Go to the `/api` folder writing `cd api`. 
     3. Run `npm install` to install all the dependencies.
     4. Now you need to start a Git repository and the Heroku app where you are going to deploy the Back-End: 
         - `git init`
