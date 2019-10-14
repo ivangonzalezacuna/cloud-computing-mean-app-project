@@ -33,7 +33,7 @@
   #### **Terminal 2 - Front-End**
   
     1. On the root folder, run `npm install` to install all the dependencies.
-    2. If you want to use your own Heroku app. Follow again these instructions:
+    2. If you want to use your own Heroku app. Follow again these instructions so that you will be able to deploy your Heroku app:
         - `git init`
         - `heroku create`
         - `git add .`
