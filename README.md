@@ -30,7 +30,7 @@
     6. Finally, go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app link. This will provide a connection between our Front-End and our API, in the Back-End.
 
 
-  - **Terminal 2 - Front-End**
+  #### **Terminal 2 - Front-End**
   
     1. On the root folder, run `npm install` to install all the dependencies.
     2. If you want to use your own Heroku app. Follow again these instructions:
