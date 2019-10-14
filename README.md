@@ -1,6 +1,6 @@
 # cloud-computing-ivan-basil
 
-### User Registration and Login Project using a MEAN Application.
+#### User Registration and Login Project using a MEAN Application.
 
 1. `Root` folder has the data for the Client or Front-End of our application. And also the connection to the Back-End database.
 
