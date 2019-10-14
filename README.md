@@ -14,7 +14,7 @@
 
 - Now you will need 2 terminals. In one you will deploy the Back-End and in the other one the Front-End of our application:
 
-  - **Terminal 1**
+  - **Terminal 1 - Back-End**
   
     1. The App is already running. If you want to start your own App, follow the next instructions. In other case, go to the **Terminal 2** instructions.
     2. Go to the `/api` folder writing `cd api`. 
@@ -30,7 +30,7 @@
     6. Finally, go to the folder `/src/environments` and change the variable `apiUrl` with your new Heroku app link. This will provide a connection between our Front-End and our API, in the Back-End.
 
 
-  - **Terminal 2**
+  - **Terminal 2 - Front-End**
   
     1. On the root folder, run `npm install` to install all the dependencies.
     2. If you want to use your own Heroku app. Follow again these instructions:
