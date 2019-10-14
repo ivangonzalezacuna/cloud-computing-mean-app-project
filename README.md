@@ -2,13 +2,15 @@
 
 User Registration and Login Project using a MEAN Application.
 
-Root folder has the data for the Client or Front-End of our application.
+1. *_Root_* folder has the data for the Client or Front-End of our application.
 
-Folder *_/api_* has the data for the Server or Back-End. Where the API of our application is defined.
+2. Folder *_/api_* has the data for the Server or Back-End. Where the API of our application is defined.
 
-How to run:
 
-- Download the repository
+
+**How to run our application:**
+
+- Download the repository using 
 
 - Then, open 2 terminals:
 
