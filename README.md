@@ -48,7 +48,7 @@
     
 - Enjoy the app!
 
-- (Additional) To use your own MongoDB database it is necessary to put your own Database Connection String in this 2 places:
+- (*_Additional_*) To use your own MongoDB database it is necessary to put your own Database Connection String in this 2 places:
   - In *_`/cloud-computing-mean-app-project/server.js`_*, line **11**, variable *_`uri`_*.
   - In *_`/cloud-computing-mean-app-project/api/_helpers/db.js`_*, line **4**, variable *_`uri`_*.
   
